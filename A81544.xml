@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discoverie, what God, the supreame judge, through his servant hath caused to bee manifested unto the regents or rulers in England, concerning their Cain-like, fierce, nay diabolicall contentions and furious distractions, by which they bring themselves with all their land and subjects in utter distruction. Besides, that they have left their distressed fellovv-members and brethren in Germany stincking in their perdition and misery, vvhich all God will judge. Rom. I:2. 2. Pet. 3.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81544</idno>
+            <idno type="STC">Wing D1664</idno>
+            <idno type="STC">Thomason E419_35</idno>
+            <idno type="EEBO-CITATION">99860656</idno>
+            <idno type="PROQUEST">99860656</idno>
+            <idno type="VID">161356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discoverie, what God, the supreame judge, through his servant hath caused to bee manifested unto the regents or rulers in England, concerning their Cain-like, fierce, nay diabolicall contentions and furious distractions, by which they bring themselves with all their land and subjects in utter distruction. Besides, that they have left their distressed fellovv-members and brethren in Germany stincking in their perdition and misery, vvhich all God will judge. Rom. I:2. 2. Pet. 3.</title>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the jeare of our Lord and Saviour Jesus Christ, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures A⁴ B² .</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161356:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>
+               <hi>A DISCOVERIE,</hi> What God, the ſupreame judge,<note place="margin">
+                  <hi>Wiſed.</hi> 6. 1 <hi>Iohn.</hi> 3.</note> through his ſervant hath cauſed to bee manifeſted unto the regents or Rulers in England, concerning their Cain-like, fierce,<note place="margin">
+                  <hi>Habac.</hi> 3. <hi>Apoc.</hi> 16.20. <hi>Ierem.</hi> 30. <hi>Pſal.</hi> 89. 1 <hi>Cor.</hi> 12.</note> nay Diabolicall contentions and furious di<g ref="char:EOLhyphen"/>ſtractions, by which they bring them<g ref="char:EOLhyphen"/>ſelves with all their land and ſubjects in utter diſtruction.</p>
+            <p>Beſides,<note place="margin">Gal. 5.16. Eſai. 51. Deut. 32. Pſal. 9: 75 96.97.98</note> that they have left their diſtreſſed fel<g ref="char:EOLhyphen"/>lovv-members and brethren in Germany ſtincking in their perdition and miſery, vvhich all God vvill Iudge.
+<bibl>Rom. 1:2.</bibl>
+               <bibl>2. Pet. 3.</bibl>
+            </p>
+            <figure/>
+            <p>Printed in the jeare of our Lord and Saviour Ieſus Chriſt, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:161356:2"/>
+            <!-- PDF PAGE 68 -->
+            <pb facs="tcp:161356:2"/>
+            <!-- PDF PAGE 68 -->
+            <head>In the behalfe of God the Supreame Iudge, theſe are directed to the King of England, and the Parliament.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He eternal God,<note place="margin">
+                  <hi>Ieſ</hi> 40.66. <hi>Pſa.</hi> 89.95.</note> to whom chiefly both heaven and earth doth be<g ref="char:EOLhyphen"/>long, doth require the King of England and his Parlement,<note place="margin">
+                  <hi>Ier.</hi> 30.</note> that if they will eſcape his fierce anger and hot diſplea<g ref="char:EOLhyphen"/>ſure,<note place="margin">
+                  <hi>Eſai.</hi> 34. <hi>Rom.</hi> 1. <hi>Ieſa.</hi> 25.29.</note> they do not ſo cruelly and tyranni<g ref="char:EOLhyphen"/>cally bring the ſubjects in their Countries with their own ſweat and blood-monies,<note place="margin">Amos 5. Mich. 3. Ephe 4. 2 Tim. 3. Ieſai. 1. Iere. 7. Galat. 5. Ezech. 14. Apoc. 6.20 Matt. 7. Ioh. 10. 2 Theſſ. 2. Apoc. 16. 2 Cor. 11.</note> which they by force draw &amp; extort from them, in the ignorance of God, unto all ruine &amp; perdition, as thoſe inſolent, wicked and inconſciona<g ref="char:EOLhyphen"/>ble theeues and murtherers in Germany have done, who like dogs have torn and devoured, &amp; like unto the wilde &amp; bruit beaſts have killed and deſtroyed one another, and then afterwards in the behalfe of the ſalvation of their ſoules, yet truſt and relie upon thoſe ravening wolves and hirelings, by whom Satan, the very Devill, himſelfe is transformed into an Angell of light.</p>
+            <p>Behold, God commeth as a thiefe in the night, with the day of vengeance, and his fiery Iudge<g ref="char:EOLhyphen"/>ment upon thoſe who doe not ſpare the very righteous amongſt them.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:161356:3"/>
+            <!-- PDF PAGE 69 -->
+            <head>A DISCOVERY Of the Cain of this preſent world in his ge<g ref="char:EOLhyphen"/>neration, namely, how the Beaſt hath aſcended againe out of the pit of darkneſſe. <hi>Revel.</hi> 17. Whoſe Members have forſaked God in their Conſcience, after the Communion and obedience of faith, and being intangled in the vanities of this world, have ſeparated themſelves from one another, and for aſmuch as every one of them will maintaine his vanity and Religion, onely after his pleaſure, they have taken up Armes, to deſtroy and roote out one another in a horrible and blood<g ref="char:EOLhyphen"/>thirſty way.</head>
+            <p>THe people of the ſecond,<note place="margin">2 Tim. 4, Rom 14. Eph<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ. 2.</note> or new Teſtament, ſhould have bene taught, not to rule themſelfs, and live onely after their owne wil, but ſhould have ſuffered the grace of God our Lord and Saviour IESUS CHRIST,<note place="margin">Luc. 1.17.</note> to chaſtiſe, rule and reprouve them inwardly in their hearts or conſciences:<note place="margin">Tit. 2. Rom, 1. Mat. 24.</note> but for as much as they have forſaken God in his throne of grace, and are become vaine in their devices, &amp; have like unto thoſe in the dayes of Noach,<note place="margin">Geneſ. 6, 7.19. Epiſt. Iud. 2 Petr. 1:2. Apoc. 17. Matth. 24. 4 Eſdr. 5.19 and 16. Apoc. 6:12. and 16. Iac. 5. Heb. 10. Apoc. 3:16 Gal. 4.5. Epheſ 4.5. Theſſ. 5. Ierem. 8.</note> and Loth, builded up and multiplyed themſelves, onely according to their fleſly old Adamicall will, therefore they have ſet God behinde them ſecretely in the ground of their ſoule, have forgot him, are with the powers of the body &amp; ſoule gone forth into the nature: and have for to maintaine their liberty and Religion, begunne warres one againſt another, by which they deſtroye and ruyne one another, and bring the poore to utter deſtruction. But when God cometh with his grace, &amp; according to the ſpirit of filiation knoc<g ref="char:EOLhyphen"/>keth on, to the end, that his children ſhould open their hearts, and enter into their conſciences, and marcke this preſent and laſt time, and obſerve the rights of the Lord;
+<pb facs="tcp:161356:3"/>
+               <!-- PDF PAGE 69 -->then cometh the ungodly Cain in his generation, or chil<g ref="char:EOLhyphen"/>dren of Belial, and will cenſure God in his judgement,<note place="margin">1 Ioh. 3.5.</note> maketh it worſe then his brother in former times,<note place="margin">2 Pet. 3. Gen. 4. Gen. 3.</note> (who yet fell into the fear of deſperation) and Adam, who fain would have been hid from the face of God. In ſumma,<note place="margin">2 Pet. 2. 1 Cor. 3.</note> the Devill hath wholly poſſeſſed the people in their Se<g ref="char:EOLhyphen"/>ctarian Religion, with will &amp; inſolent deeds; to paſſe by,<note place="margin">2 Tim. 4.3. 2 Pet. 2. Pſal. 14. Epiſt. Iuda Apo. 16: 19 Eſai. 9. and 13.27.61.63.65.</note> that their falſe teachers and prophets beſides, doe wholy deny and blaſpheme the judgement of God, concerning the redemption of the poore and diſtreſſed, and are the very firſt of all that ſtirre up men to all wickednes, wher<g ref="char:EOLhyphen"/>fore alſo God ſhall bruiſe the head of the old ſerpent, and execute vengeance upon his corporall and ſpirituall enne<g ref="char:EOLhyphen"/>mies. 2. Theſſ. 1. Mich. 5.</p>
+            <p>The ſhephards and teachers which every one hath loa<g ref="char:EOLhyphen"/>det himſelfe withall, in his ſect,<note place="margin">Ierem. 23. Zach. 10. 2 Tim. 4. Matt. 24. 2 Perr. 2. Matt. 7. Apoc. 20. 2 Tim. 3. Zach. 14. Gen. 18.19. Ier. 5 and 8. and 9. Pſal. 36.119. Ieſ. 28.42.59. Sapient. 5. Amos. 5. Pſa. 4: 89. Luc. 18. Zach. 14. Pſ. 12.125 Eſ. 40 50. Apoc. 16. Mich. 7. 2 Pet. 3. D<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t. 2.7. I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rem 8. Rom. 8. 1 Pet. 4. I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cob. 4.5. Amos 5. Ezech. 22. Mich. 3. Eſ. 40.45. Pſal. 33. Eſai. 8.30. Hoſ. 10. Epiſt. Iudae</note> have ſeduced the whole world into errours and darkneſſe of conſcience, and brought them away from the narrow way of life, unto the brood way of eternall damnation in hell, &amp; doe chiefly reſiſt the truth. If there were but five Godly and Righ<g ref="char:EOLhyphen"/>teous men in a Land or Kingdome, like as God ſought ſuch at Sodome and Gomorrha; I leave not of to de<g ref="char:EOLhyphen"/>nounce the right of the Lord, and to witneſſe of his eter<g ref="char:EOLhyphen"/>nall righteouſnes, which for to maintaine the honour of his word or holy name ſhall be manifeſted as a ſtrong ſtreame. But what Faith, hope and conſcience in this regard God findeth &amp; hath found in all places Countries and Kingdomes, upon his eternall infinite Omnipoten<g ref="char:EOLhyphen"/>cy, that ſhall be plainly diſcovered and judged, by reaſon of the confuſion and ruine, which the children of man have brought to paſſe, which, like unto the mockers and deſpiſers of God in former times know nothing of his
+<pb facs="tcp:161356:4"/>
+               <!-- PDF PAGE 70 -->Kingdome, right, judgement and righteouſnes, but will onely maintain their vaine, old, former confuſed doings and worldly deeds, with the revenue of the Countries, ſweat and blood-mony of the poore Subjects, from whom they have extorted them. Wherefore there ſhall alſo be a judgement, for the God of Iſrael liveth yet, and his counſell and thoughts ſtand for ever, againſt the doings, counſels, or vaine and idle thoughts of all men: which vaine counſels and thoughts are come forth from themſelves, to maintaine their divided Sects.</p>
+            <p>Our God is</p>
+            <epigraph>
+               <q>
+                  <p>Vnto the unbelevers,<note place="margin">Heb. 10.12 Deut. 32. Rom. 9. Ieſ. 8.28.</note> a conſuming fire, a ſtone of ſtumbling, and a rocke of offence.</p>
+                  <bibl>1. Petr. 2.</bibl>
+               </q>
+            </epigraph>
+         </div>
+         <div type="part">
+            <pb facs="tcp:161356:4"/>
+            <!-- PDF PAGE 70 -->
+            <head>CONCERNING The Cainlike, fierce, bitter,<note place="margin">1 Ioh. 3. Haba 4. Hebr. 10.11, 12. Pſa. 94. Mare. 13. Rev. 13.16 Iob. 17. Eſ. 42.45. Pſ. 10.68. Mich. 3. Malach. 3. Amos 5. Iames 5. Eſai 5.59. Ierem. 7.22</note> nay Diabolicall revenge-fulneſſe of the Heathen, or falſe Chriſtians, who go about to thruſt God out of the throne of his judgement, and will deprive him of all power and ho<g ref="char:EOLunhyphen"/>nour in heaven and on earth, in bringing both Coun<g ref="char:EOLhyphen"/>try and people, viz. the poore Subjects, with their own ſweat and blood, into extream calamity and utter de<g ref="char:EOLhyphen"/>ſtruction, and beſides defiling the Land with innocent blood. <bibl>Ezech. 22.</bibl>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>Od hath now for a long time in all places and Countries beheld the people and nations of this fourth or laſt Monarchy of the world,<note place="margin">Dan. 2. and 7. Chap. Rom. 11 Matt. 21. Pſa. 33.53.89. Luc. 21. Ier. 23.30. Eze. 21.22 Amos 5. <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Eſai. 9.45.50. Iam. 5. Dan. 27. Pſal 36.89 97.98.119 4 Eſd. 6.7.16. Rev. 16.19. 20, 22.</note> namely the heathens or falſe Chriſtians, and that both from heaven above, from his high and firme throne, and alſo through his ſervant David, whom he hath raiſed of and from among their owne ſelves, by reaſon of this pre<g ref="char:EOLhyphen"/>ſent miſery, diſtreſſe and great calamity: who through their deſignes in every place, have effected nothing els but kindled the fire upon themſelves, and hindered the redemption (or deliverance) of Iſrael with the utter de<g ref="char:EOLhyphen"/>ſtruction of the poore: all which muſt yet be judged: for God with his Kingdome, judgement, and eternall divine Righteouſnes, will not give place, ſo much as a haire, to the Divell in all his members in the whole world, nor yeeld to them the leaſt from his owne right. But woe
+<pb facs="tcp:161356:5"/>
+               <!-- PDF PAGE 71 -->unto them,<note place="margin">Eſai. 8.</note> or thoſe in the fiery pit of everlaſting helliſh damnation, who in this cauſe oppoſe themſelves againſt God,<note place="margin">Mat. 24. Marc. 13. Rev. 12.16 Eſ. 34.66. 2 Cor. 5.</note> and will prevent, nay wholy annihilate the counſell of the Lord: for as every one doth and behaveth himſelfe againſt God, in regard of theſe preſent warres and com<g ref="char:EOLhyphen"/>motions, and thereby is the cauſe, and guilty of the de<g ref="char:EOLhyphen"/>ſtruction of mankinde; ſo accordingly he ſhall be rewar<g ref="char:EOLhyphen"/>ded both here in time, and there in eternity: which no ſhephard, falſe teacher 2. Petr. 2. or prophet can hinder, or ſhall be able to remedy in any way.<note place="margin">Actor. 20. Mat. 7.23. Ioh. 10. 2 Tim. 3. Eſ. 28.57. Ezech. 13. Epiſt. Iudae</note> For thoſe hor<g ref="char:EOLhyphen"/>rible ravening wolves and hirelings, who have ſeduced the people to ſuch inſolent prevarication againſt God, and moreover doe abſolve them in their preſumptuous perſevering ſinnes and damnable courſes, &amp; ſtrengthen the hands of the impenitent and wicked ones, thus tur<g ref="char:EOLhyphen"/>ning the grace of our God into laſciviouſnes and inſo<g ref="char:EOLhyphen"/>lence:<note place="margin">2 Petr. 2. Zeph. 3.</note> Thoſe, I ſay, ſhall principally above all be ſent to hell, and the everlaſting darkneſſe, by reaſon of the de<g ref="char:EOLhyphen"/>ſtruction,<note place="margin">Marc. 11.13. Lucc 19. Iere. 7. Iere. 23. Ezech. 13.</note> Matt. 21.24. which now for a time hath bene cauſed and brought to paſſe in all places and Countries in the murthering denne of this falſe Chriſtendome, through the hypocriſie and lyes of ſuch uncleane ſpirits, frogs and ſpirits of the Devill.</p>
+            <p>The whore of Babylon muſt indeed be deſtroyed be<g ref="char:EOLhyphen"/>fore the end of the world,<note place="margin">Rev. 16.</note> but it muſt not be done other<g ref="char:EOLhyphen"/>wiſe, then by,<note place="margin">Rev. 17.18 Pſ. 89: 97.119. Gala. 5. Rom. 8. Ioh. 8.10. Ier. 7.8. Mat. 12.21 Marc 3.12</note> and according to the afore determined counſell of the Lord, namely, according to his juſtice, judgement and everlaſting divine righteouſneſſe, which eſpecially the people of the ſecond, or new Teſtament, ought in the ſpirit, and through Faith to have waited and hoped for, and in no wiſe ſo as the Iewes did when their King came, whoſe life they ſought above all others, in
+<pb facs="tcp:161356:5"/>
+               <!-- PDF PAGE 71 -->regard of their outward Temple worſhip and falſe Reli<g ref="char:EOLhyphen"/>gion.<note place="margin">Lucc 6.11.19. 2. Petr. 3. Epiſt. Iudae Matt. 13. Deut. 32. Pſal. 94. Rom. 1.2. Pet. 2. Eſai. 1. Ier. 7.11.15.17.</note> Therefore a fiery judgement is before the doore, by reaſon of the mockers and deſpiſers, who in this re<g ref="char:EOLhyphen"/>gard will not onely hinder the harveſt of the Lord, but endeavour alſo wholy to annihilate and aboliſh it, by en<g ref="char:EOLhyphen"/>trenching upon the vengeance belonging to God, and going about to maintaine, protect and defend their vaine worldly Sectarian courſes and Religions. Whereby they doe but kindle the fire in the wrath of God, upon them<g ref="char:EOLhyphen"/>ſelves, Eſdr. 15.16.</p>
+            <p>Thoſe heathens or falſe Chriſtians,<note place="margin">Marc. 13. Gal. 4.5. Rom. 9. Iames 4. Matt. 24. Luc. 17. Rom. 1. Eſai. 1.5.30. Ezech. 7.21 Levit. 26. Revel. 9.13 16.19.20. Luc. 19. Geneſ. 19. Epiſt. Iudae Ezech. 16. 2 Pet. 2. Gal. 5. Pſalm. 12. Ierem. 23. Zach. 10.14. Hoſ. 4.10. 1 Ioh. 3. Pſal. 2.99. Ez<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch. 22. Ierem. 2: 22. Mich. 3.6. Ier. 46.50. Eſa. 30 31. Amos 5.</note> who as concerning the ſpirit of grace and adoption (or childship) of IESUS CHRIST, within their hearts or conſciences, are not other wiſe ſubject and obedient to God, then thoſe in the times of Noah and Loth were, and will protect themſelves in their vaine and wicked courſes, without the counſell of the Lord, and againſt God &amp; his ſpirit endeavour to ſet themſelves at liberty, thoſe I ſay muſt be ruined through their owne enemies, and ſubjected to the Divell and all wild beaſts, which God ſhall raiſe and ſtirre up againſt them, and they ſhall have at laſt as little deliverance from the everlaſting helliſh damnation, as in former times the Iewes in the horrible deſtruction of Ieruſalem; and thoſe at Sodome and Gomorrha, whom God alſo ever for their owne Reſractarineſſe was forced to deſtroye with fire and brimſtone from heaven. For God will not have the Sectarian contentions and bytings, the hypocri<g ref="char:EOLhyphen"/>ticall and Schiſmatical doings of the ſhephards, by which there is no light, no faith, no love, no uprightneſſe nor righteouſnes any more left, within the hearts of theſe men, maintained and defended in this fierce and Cain<g ref="char:EOLhyphen"/>like manner, with rage and fury, murderings and blood<g ref="char:EOLhyphen"/>ſheddings,
+<pb facs="tcp:161356:6"/>
+               <!-- PDF PAGE 72 -->of the poore innocent ſouls, which now alſo for a time hath bene plainly ſeen and knowne, by lively experience, namely, how God hath throwne downe one tyrant through the other, and brought a deſolation upon the Champious and ſtrong-ones.<note place="margin">Deut. 32. Eſai. 12. Rom. 12. Pſa. 10.94. Habac. 3. Iames 5. Amos 3.5.8. Pſalm 33.76.93.</note>
+            </p>
+            <p>Thoſe that go about to deprive God of his honour and vengeance, and entrench upon his judgement againſt their enemies, doe firſt and foremoſt, burden themſelves with great unquietneſſe, trouble and labour in vaine to no pur<g ref="char:EOLhyphen"/>poſe. Secondly they bring their contry, people and ſub<g ref="char:EOLhyphen"/>jects with their revenus, ſweate and blood into utter ruine: and then thirdly and conſequently (which is the worſt, greateſt and heaveſt of all) they preſume to alter or per<g ref="char:EOLhyphen"/>vert the eternall counſel of God:<note place="margin">
+                  <hi>Eſai</hi> 30.33 1 <hi>Theſſ.</hi> 5. 1 <hi>Corint.</hi> 3.6.11. <hi>Hagg.</hi> 2.</note> and thus will utterly aboliſh the gouvernement of God in heaven and on earth, eſpecialy within their owne conſcience, and alſo outward<g ref="char:EOLhyphen"/>ly amongſt themſelves:<note place="margin">Wiſd. 6.12.</note> all which the ſame God, who in former times hath throwne downe the Thrones and Seats of Kingdomes, will not ſuffer.<note>
+                  <bibl>Eſai. 49.</bibl>
+               </note>
+            </p>
+            <closer>
+               <signed>
+                  <hi>A Servant of the Lord</hi>
+Servinge God in his juſtice and judgement.</signed>
+               <note>
+                  <bibl>Pſalm. 17.18.</bibl>
+               </note>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
